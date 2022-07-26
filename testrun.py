@@ -1,7 +1,7 @@
 import CMDicon
-CMDicon.CMDico("v1.ico","Testing")
+CMDicon.CMDico("icon.ico","CMDicon")
 
-print("test!")
-print("\n"+input("type anything: "))
+print("CMDicon allows you add \nicons to Console apps.")
+print("""\nCMDicon.CMDico("icon.ico", "Title")""")
 
 input()
